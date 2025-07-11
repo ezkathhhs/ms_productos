@@ -1,0 +1,9 @@
+com\perfulandia\productservice\Dataloader.class
+com\perfulandia\productservice\controller\ProductoController.class
+com\perfulandia\productservice\repository\ProductoRepository.class
+com\perfulandia\productservice\model\Producto.class
+com\perfulandia\productservice\service\ProductoService.class
+com\perfulandia\productservice\model\Producto$ProductoBuilder.class
+com\perfulandia\productservice\ProductserviceApplication.class
+com\perfulandia\productservice\config\AppConfig.class
+com\perfulandia\productservice\Assembler\ProductoAssembler.class
